@@ -7,7 +7,7 @@ public class Main {
 		System.out.println("Hello World");
 		
 		Second sec=new Second();
-		Third third=new Third();
+		Third third=new Third(); 
 	}
 
 }
